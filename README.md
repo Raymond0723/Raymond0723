@@ -35,10 +35,6 @@
 
 ---
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raymond0723&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
 
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=60&section=footer" width="100%"/>
 </div>
