@@ -1,32 +1,76 @@
 <div align="center">
 
-# 🛠️ Raymond (Raymond0723)
+# 🛠️ Raymond
 ### Computer Science & Systems Engineering
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto:cyan_blue&height=180&section=header&text=Systems%20%7C%20Embedded%20%7C%20Full-Stack&fontSize=40&animation=twinkling" width="100%" />
 
-「 橋接高階應用與硬體邏輯的架構實踐者。」
-<br>
-「 Bridging the gap between high-level applications and hardware logic. 」
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=100&section=header&text=Full-Stack%20%7C%20Low-Level%20%7C%20Embedded&fontSize=30&animation=fadeIn" width="100%" />
 
-[![GitHub followers](https://img.shields.io/github/followers/Raymond0723?style=for-the-badge&logo=github&color=007ACC)](https://github.com/Raymond0723)
-[![Stars](https://img.shields.io/github/stars/Raymond0723?style=for-the-badge&logo=github&color=FFD700)](https://github.com/Raymond0723)
+
+
+"Bridging the gap between high-level applications and hardware logic."
+
+
 
 </div>
 
+
+
 ---
+
+
 
 ## 💻 Technical Arsenal (技術棧)
 
-### 📟 Low-Level & Embedded Systems
-```assembly
-; 專精計算機架構、微處理器開發與記憶體優化
-SECTION .text
-    global _core_expertise
-_core_expertise:
-    mov eax, [Assembly]      ; x86, 8051, MIPS
-    mov ebx, [Embedded_C]    ; Register-level Programming, Hardware Control
-    mov ecx, [Optimization]  ; Memory Mapping, Low-Latency Logic
-    ret
+
+
+### 📟 Low-Level & Embedded (底層開發)
+
+> 專精於計算機架構與微處理器開發。
+
+- **Assembly Languages:** `x86`, `8051`, `MIPS`
+
+- **Embedded C:** Hardware Control, Memory Mapping, Register-level Programming
+
+
+
+### 🚀 Application Development (應用開發)
+
+- **Primary Languages:** `Python`, `Java`, `C++`
+
+- **Web Technologies:** `PHP`, `JavaScript`, `HTML/CSS`
+
+- **Database Management:** `MySQL` (Optimization, Relational Schema Design)
+
+
+
+### 🛠️ Skills Visualization
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,php,mysql,html,css,js,git,linux,svg,visualstudio)](https://skillicons.dev)
+
+
+
+---
+
+
+
+## 🧬 Development Philosophy
+
+* **Performance First:** 致力於編寫高效能、低延遲的底層代碼。
+
+* **Scalable Web:** 利用 PHP 與 MySQL 構建穩定且可擴展的後端架構。
+
+* **Cross-Platform:** 具備 C++ 與 Java 的跨平台開發經驗。
+
+
+
+---
+
+
+
+
+
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=60&section=footer" width="100%"/>
+
+</div>
