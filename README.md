@@ -12,8 +12,9 @@
 ## 關於我
 
 嗨，我是張定瑋（Raymond），資工背景。
-我比較看重實際做過的經驗，學東西也習慣直接動手做。
-比起寫練習題，我更喜歡處理企業裡實際會遇到的問題，把它真的解決掉。
+我比較看重實際做過的經驗，學東西也習慣直接動手做，
+更喜歡處理企業裡實際會遇到的問題，並把它真正解決。
+尤其是 AI 導入這一塊，我在意的不只是模型本身，而是如何整合進現有的系統服務，讓它實際發揮作用。
 
 ## 技能
 
@@ -34,14 +35,14 @@
 
 **工具**
 - 版本控制：Git、GitLens
-- 系統 / 虛擬化：Linux、KVM、Docker
+- 系統 / 虛擬化：Linux、KVM、Docker、Kubernetes（K8s）
 - 建置：CMake
 - 硬體模擬：Icarus Verilog
 - 網頁 / 資料庫：Apache、MySQL、phpMyAdmin
 - 網路分析：Wireshark
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,arduino,php,mysql,html,css,js,git,linux,docker,cmake,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,arduino,php,mysql,html,css,js,git,linux,docker,kubernetes,cmake,visualstudio" />
 </p>
 
 ## 專案 / 經歷
@@ -52,8 +53,11 @@
 
 **大學**
 - **台中榮總醫療資訊合作**
+  參與 AI 導入計畫，協助將 AI 應用於院內工作流程改善
 - **數位孿生應用於無人機研發之研究**
+  於數位孿生模擬場域中，以強化學習訓練無人機完成自主降落
 - **教育部大數據研究計畫 研究人員**
+  協助指導教授分析學生在不同學習平台上的使用數據，建立 AI 模型並優化學習表現的預測分析
 
 
 
