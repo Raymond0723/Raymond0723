@@ -4,7 +4,6 @@
 
 資訊工程 / 系統開發｜從硬體寫到應用層
 
-![Profile views](https://komarev.com/ghpvc/?username=Raymond0723&color=007ACC&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -67,3 +66,5 @@
 ## 聯絡方式
 
 - Email：raymond@ismp.csie.ncku.edu.tw 或 xz105923@gmail.com
+
+![Profile views](https://komarev.com/ghpvc/?username=Raymond0723&color=007ACC&style=flat-square&label=Profile+Views)
