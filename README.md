@@ -62,8 +62,7 @@
 ## 競賽
 
 **2025 教育部教育大數據微學程計畫 學生專題成果競賽｜佳作（全國前 10）**
-- 東海大學「Data Glow」團隊，指導教授：陳仕偉
-- [相關報導](<https://enger.thu.edu.tw/info-on-home-page/賀陳仕偉老師指導的「data-glow」團隊，在全國百組隊伍/>)
+- 東海大學「Data Glow」團隊，指導教授：陳仕偉 [相關報導](<https://enger.thu.edu.tw/info-on-home-page/賀陳仕偉老師指導的「data-glow」團隊，在全國百組隊伍/>)
 
 ## 聯絡方式
 
