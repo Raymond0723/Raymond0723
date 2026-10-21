@@ -24,7 +24,7 @@
 - Embedded C：暫存器層級操作、記憶體映射 I/O、硬體控制
 
 **MCU / Arduino**
-- 8051 單晶片開發
+- 8051 
 - Arduino 專案開發：感測器讀值、周邊模組控制
 - 常用介面：GPIO、PWM、UART、I2C、SPI
 
